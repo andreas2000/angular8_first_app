@@ -1,0 +1,6 @@
+node -v
+npm -v
+ng new my-app
+ng serve -o
+ng generate component home
+ng generate component list
